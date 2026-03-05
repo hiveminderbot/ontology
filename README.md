@@ -1,5 +1,7 @@
 # Ontology
 
+[![Pattern A](https://img.shields.io/badge/Pattern-A-success)](PATTERN_A.md)
+
 Typed knowledge graph for structured agent memory and composable skills.
 
 ## Quick Start
